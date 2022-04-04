@@ -5,6 +5,7 @@ Sou formado em Administração, cursei Engenharia Elétrica por 4 anos, trabalhe
 
 ### Dados sobre mim:
 📍 Sou de Brasíla/DF
+
 🗓 Tenho 28 anos
 
 💼 Aberto à oportunidades em Engenharia de Dados
