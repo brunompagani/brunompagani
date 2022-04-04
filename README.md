@@ -32,10 +32,9 @@ ETL / Pipeline de dados:
 
 SGBDs / Data Warehouse / Data LakeHouse:
 - MySQL ⭐️ ⭐️ ⭐️
-- Databicks ⭐️ ⭐️ ⭐️ 
+- Databricks ⭐️ ⭐️ ⭐️ 
 - PostgreSQL ⭐️
 - BigQuery ⭐️ ⭐️
-- Databicks ⭐️ ⭐️ ⭐️ 
 - Snowflake ⭐️ ⭐️
 
 Provedores de Cloud:
