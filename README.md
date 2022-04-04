@@ -11,62 +11,85 @@ Sou formado em Administração, cursei Engenharia Elétrica por 4 anos, trabalhe
 💼 Aberto à oportunidades em Engenharia de Dados
 
 ### Auto-análise subjetiva dos meus conhecimentos:
+0 ⭐️ : Não estudei/pratiquei
 
-Fundamentos:
-- Data Warehouse ⭐️ ⭐️ ⭐️
-- Modelagem de dados ⭐️ ⭐️ ⭐️
-- Estatística ⭐️ ⭐️ ⭐️
-- Pipeline de Dados ⭐️ ⭐️
-- Machine Learning ⭐️ 
-- Web ⭐️
-- Redes ⭐️
-- Engenharia de Software ⭐️ 
+1 ⭐️ : Estudei/pratiquei pouco
 
-Linguagens de programação:
-- Python ⭐️ ⭐️ ⭐️
-- SQL ⭐️ ⭐️ ⭐️ ⭐️
+2 ⭐️ : Estudei/pratiquei moderadamente 
 
-ETL / Pipeline de dados:
-- Apache Airflow ⭐️ ⭐️
-- Apache Spark ⭐️ ⭐️ ⭐️
+3 ⭐️ : Estudei/pratiquei bem
 
-SGBDs / Data Warehouse / Data LakeHouse:
-- MySQL ⭐️ ⭐️ ⭐️
-- Databricks ⭐️ ⭐️ ⭐️ 
-- PostgreSQL ⭐️
-- BigQuery ⭐️ ⭐️
-- Snowflake ⭐️ ⭐️
+4 ⭐️ : Estudei/Pratiquei muito
 
-Provedores de Cloud:
- - AWS ⭐️ ⭐️
- - Azure ⭐️ ⭐️
- - Google Cloud ⭐️
+5 ⭐️ : Dou aula / Especialista
 
-Bibliotecas Python:
-- PySpark ⭐️ ⭐️ ⭐️
-- Pandas ⭐️ ⭐️ ⭐️
-- Numpy ⭐️ ⭐
-- Matplotlib ⭐️ ⭐️
-- Apacha Beam ⭐️
+Fundamentos | Estudei | Pratiquei
+----------- | ------- | ----------
+Data Warehouse | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
+Modelagem de dados | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️
+Estatística | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️
+Pipeline de Dados | ⭐️ ⭐ | ⭐️ ⭐️
+ETL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
+Machine Learning | ⭐️ | ⭐️ ⭐️
+Web | ⭐️ ⭐️ | ⭐️
+Redes | ⭐️ |
+Engenharia de Software | ⭐️ |
 
-Data Viz:
-- Google Data Studio ⭐️ ⭐️ ⭐️ 
-- Tableau ⭐️
-- Power BI ⭐️
 
-Planilhas:
-- Excel ⭐️ ⭐️ ⭐
-- Google Sheets ⭐️ ⭐️ ⭐️ ⭐️
+Linguagens de programação | Estudei | Pratiquei
+----------- | ------- | ----------
+Python | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+SQL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
 
-Sistemas Operacionais:
-- Linux ⭐️ ⭐️
-- MacOS ⭐️ ⭐️ ⭐️ 
-- Windows
+ETL/Pipeline de dados | Estudei | Pratiquei
+----------- | ------- | ----------
+Apache Airflow | ⭐️ ⭐️ | ⭐️ 
+Apache Spark | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
 
-Conhecimentos não-específicos (relevantes):
-- Negócios ⭐️ ⭐️ ⭐️ ⭐️ 
-- Marketing ⭐️ ⭐️ ⭐️ 
-- Finanças ⭐️ ⭐️ ⭐️ 
+SGBDs (e semelhantes) | Estudei | Pratiquei
+----------- | ------- | ----------
+MySQL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Databricks | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+PostgreSQL | ⭐️ | ⭐️ 
+BigQuery | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Snowflake | ⭐️ ⭐️ | ⭐️ ⭐️ 
+
+Provedores de Cloud | Estudei | Pratiquei
+----------- | ------- | ----------
+AWS | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Azure | ⭐️ ⭐️ | ⭐️ ⭐️ 
+Google Cloud | ⭐️ | ⭐️ 
+
+Bibliotecas Python | Estudei | Pratiquei
+----------- | ------- | ----------
+PySpark | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
+Pandas | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Numpy | ⭐️ ⭐ | ⭐️ 
+Matplotlib | ⭐️ ⭐️ | ⭐️ 
+Apache Beam | ⭐️ | ⭐️ 
+
+Data Viz | Estudei | Pratiquei
+----------- | ------- | ----------
+Google Data Studio | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ ⭐️ ⭐️ 
+Tableau | ⭐️ | ⭐️ ⭐️ 
+Power BI | ⭐️ | ⭐️ 
+
+Planilhas | Estudei | Pratiquei
+----------- | ------- | ----------
+Excel | ⭐️ ⭐️ ⭐ | ⭐️ ⭐️ ⭐️ ⭐️ 
+Google Sheets | ⭐️ ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ ⭐️ 
+
+Sistemas Operacionais | Estudei | Pratiquei
+----------- | ------- | ----------
+Linux | ⭐️ ⭐️ | ⭐️ 
+MacOS | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ 
+Windows |  | 
+
+Conhecimentos não-específicos (relevantes) | Estudei | Pratiquei
+----------- | ------- | ----------
+Negócios | ⭐️ ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ ⭐️ ⭐️ 
+Marketing | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ ⭐️
+Finanças | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ 
 
           
 <!--
