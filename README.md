@@ -3,6 +3,14 @@
 
 Sou formado em Administração, cursei Engenharia Elétrica por 4 anos, trabalhei como Professor de Matemática, Analista de Marketing Marketing Digital e empreendi em cultura e audiovisual. Depois de muito pesquisar e refletir sobre o que mais fazia sentido para mim como profissional cheguei na área de dados, sei que essa área é o melhor match entre o que eu amo fazer e que eu sou naturalmente bom em realizar, por isso estou empenhando todo meu tempo e esforço em aprender o que preciso para me tornar um Engenheiro de Dados. Esse perfil será a casa dos projetos que realizo nessa jornada, espero que goste!
 
+### Links para projetos:
+
+Projetos | Descrição
+-------- | ---------
+[Alura Films](https://github.com/brunompagani/challenge-bi-filmes) | Visualização de dados como foco
+[Alura Food](https://github.com/brunompagani/challenge-bi-restaurantes-india) | Criação de data pipeline/warehouse, carregamento batch, análise e visualização
+
+
 ### Dados sobre mim:
 📍 Sou de Brasíla/DF
 
