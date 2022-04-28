@@ -29,9 +29,9 @@ Data Warehouse | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️
 Modelagem de dados | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️
 Estatística | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️
 Pipeline de Dados | ⭐️ ⭐ | ⭐️ ⭐️
-ETL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
-Machine Learning | ⭐️ | ⭐️ ⭐️
-Web | ⭐️ ⭐️ | ⭐️
+ETL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Machine Learning | ⭐️ | ⭐️ 
+Web | ⭐️ ⭐️ | ⭐️ ⭐️ 
 Redes | ⭐️ |
 Engenharia de Software | ⭐️ |
 
@@ -52,7 +52,7 @@ MySQL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️
 Databricks | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
 PostgreSQL | ⭐️ | ⭐️ 
 BigQuery | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
-Snowflake | ⭐️ ⭐️ | ⭐️ ⭐️ 
+Snowflake | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
 
 Provedores de Cloud | Estudei | Pratiquei
 ----------- | ------- | ----------
@@ -60,7 +60,7 @@ AWS | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️
 Azure | ⭐️ ⭐️ | ⭐️ ⭐️ 
 Google Cloud | ⭐️ | ⭐️ 
 
-Bibliotecas Python | Estudei | Pratiquei
+Principais Bibliotecas Python | Estudei | Pratiquei
 ----------- | ------- | ----------
 PySpark | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
 Pandas | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
