@@ -5,10 +5,10 @@ Sou formado em Administração, cursei Engenharia Elétrica por 4 anos, trabalhe
 
 ### Links para projetos:
 
-Projetos | Descrição
--------- | ---------
-[Alura Films](https://github.com/brunompagani/challenge-bi-filmes) | Visualização de dados como foco
-[Alura Food](https://github.com/brunompagani/challenge-bi-restaurantes-india) | Criação de data pipeline/warehouse, carregamento batch, análise e visualização
+Projetos | Complexidade | Descrição
+-------- | ------------ | ---------
+[Alura Films](https://github.com/brunompagani/challenge-bi-filmes) | ⭐️ ⭐️ | Visualização de dados como foco
+[Alura Food](https://github.com/brunompagani/challenge-bi-restaurantes-india) | ⭐️ ⭐️ ⭐️ | Criação de data pipeline/warehouse, ETL, carregamento batch, análise e visualização
 
 
 ### Dados sobre mim:
