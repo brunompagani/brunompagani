@@ -71,7 +71,9 @@ Google Cloud | ⭐️ | ⭐️
 Principais Bibliotecas Python | Estudei | Pratiquei
 ----------- | ------- | ----------
 PySpark | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
-Pandas | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Pandas | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️
+Scrapy | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
+Selenium | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
 Numpy | ⭐️ ⭐ | ⭐️ 
 Matplotlib | ⭐️ ⭐️ | ⭐️ 
 Apache Beam | ⭐️ | ⭐️ 
