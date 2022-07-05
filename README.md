@@ -80,9 +80,9 @@ Apache Beam | ⭐️ | ⭐️
 
 Data Viz | Estudei | Pratiquei
 ----------- | ------- | ----------
-Google Data Studio | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ ⭐️ ⭐️ 
+Google Data Studio | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ ⭐️
 Tableau | ⭐️ | ⭐️ ⭐️ 
-Power BI | ⭐️ | ⭐️ 
+Power BI | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ ⭐️ 
 
 Planilhas | Estudei | Pratiquei
 ----------- | ------- | ----------
