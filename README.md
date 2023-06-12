@@ -1,7 +1,11 @@
 ## Olá, me chamo Bruno Moreira Pagani!
+Úlitma atualização desse documento: 2023-06-12
+
 ### Bem vindo ao meu perfil do GitHub 👋
 
-Sou formado em Administração, cursei Engenharia Elétrica por 4 anos, trabalhei como Professor de Matemática, Analista de Marketing Marketing Digital e empreendi em cultura e audiovisual. Depois de muito pesquisar e refletir sobre o que mais fazia sentido para mim como profissional cheguei na área de dados, sei que essa área é o melhor match entre o que eu amo fazer e que eu sou naturalmente bom em realizar, por isso estou empenhando todo meu tempo e esforço em aprender o que preciso para me tornar um Engenheiro de Dados. Esse perfil será a casa dos projetos que realizo nessa jornada, espero que goste!
+Engenheiro de Dados na Neoway desde jul/2021.
+
+Esse perfil é a casa dos projetos que realizo nos tempos livres ou durante meus estudos.
 
 ### Links para projetos:
 
@@ -14,9 +18,9 @@ Projetos | Complexidade | Descrição
 ### Dados sobre mim:
 📍 Sou de Brasíla/DF
 
-🗓 Tenho 28 anos
+🗓 Tenho 30 anos
 
-💼 Aberto à oportunidades em Engenharia de Dados
+💼 Engenhario de Dados
 
 ### Auto-análise subjetiva dos meus conhecimentos:
 0 ⭐️ : Não estudei/pratiquei
@@ -33,20 +37,23 @@ Projetos | Complexidade | Descrição
 
 Fundamentos | Estudei | Pratiquei
 ----------- | ------- | ----------
-Data Warehouse | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
-Modelagem de dados | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️
+Data Warehouse | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Modelagem de dados | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ ⭐️
+Conteinerização | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️
+Microserviços | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Pipeline de Dados | ⭐️ ⭐ | ⭐️ ⭐️ ⭐️ ⭐️
+ETL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ ⭐️ 
+Engenharia de Software | ⭐️ ⭐️ | ⭐️ ⭐️
 Estatística | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️
-Pipeline de Dados | ⭐️ ⭐ | ⭐️ ⭐️
-ETL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
 Machine Learning | ⭐️ | ⭐️ 
 Web | ⭐️ ⭐️ | ⭐️ ⭐️ 
-Redes | ⭐️ |
-Engenharia de Software | ⭐️ |
+Redes | ⭐️ | ⭐️
 
 
 Linguagens de programação | Estudei | Pratiquei
 ----------- | ------- | ----------
 Python | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Go | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
 SQL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
 
 ETL/Pipeline de dados | Estudei | Pratiquei
@@ -56,33 +63,31 @@ Apache Spark | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️
 
 SGBDs (e semelhantes) | Estudei | Pratiquei
 ----------- | ------- | ----------
+PostgreSQL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ ⭐️ 
 MySQL | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
-Databricks | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
-PostgreSQL | ⭐️ | ⭐️ 
-BigQuery | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
-Snowflake | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Databricks | ⭐️ ⭐️ | ⭐️ ⭐️  
+BigQuery | ⭐️ ⭐️ | ⭐️ ⭐️  
+Snowflake | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️  
 
 Provedores de Cloud | Estudei | Pratiquei
 ----------- | ------- | ----------
-AWS | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+Google Cloud | ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+AWS | ⭐️ ⭐️ | ⭐️ ⭐
 Azure | ⭐️ ⭐️ | ⭐️ ⭐️ 
-Google Cloud | ⭐️ | ⭐️ 
 
 Principais Bibliotecas Python | Estudei | Pratiquei
 ----------- | ------- | ----------
-PySpark | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
+Scrapy | ⭐️ ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ ⭐️
+Selenium | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️  
 Pandas | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️
-Scrapy | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
-Selenium | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
-Numpy | ⭐️ ⭐ | ⭐️ 
-Matplotlib | ⭐️ ⭐️ | ⭐️ 
-Apache Beam | ⭐️ | ⭐️ 
+PySpark | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ 
+e outras clássicas...
 
 Data Viz | Estudei | Pratiquei
 ----------- | ------- | ----------
 Google Data Studio | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ ⭐️
 Tableau | ⭐️ | ⭐️ ⭐️ 
-Power BI | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ ⭐️ 
+Power BI | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️
 
 Planilhas | Estudei | Pratiquei
 ----------- | ------- | ----------
@@ -91,15 +96,16 @@ Google Sheets | ⭐️ ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ ⭐️
 
 Sistemas Operacionais | Estudei | Pratiquei
 ----------- | ------- | ----------
-Linux | ⭐️ ⭐️ | ⭐️ 
-MacOS | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ 
-Windows |  | 
+Linux | ⭐️ ⭐️ ⭐️ | ⭐️ ⭐️ ⭐️ 
+MacOS | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ ⭐️ 
+Windows | ⭐️ | ⭐️ | 
 
 Conhecimentos não-específicos (relevantes) | Estudei | Pratiquei
 ----------- | ------- | ----------
 Negócios | ⭐️ ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ ⭐️ ⭐️ 
 Marketing | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ ⭐️
 Finanças | ⭐️ ⭐️ ⭐️  | ⭐️ ⭐️ 
+Risco e Compliance | ⭐️ | ⭐️ 
 
           
 <!--
